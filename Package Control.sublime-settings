@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"Git",
+		"GitGutter",
+		"GitHubinator",
+		"Markdown Preview",
+		"Package Control",
+		"RubyTest",
+		"Sass",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SummitLinter",
+		"TrailingSpaces"
+	]
+}

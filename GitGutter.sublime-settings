@@ -1,0 +1,5 @@
+{
+  "compare_against": "master",
+  "debounce_delay": 200,
+  "ignore_whitespace": "all"
+}

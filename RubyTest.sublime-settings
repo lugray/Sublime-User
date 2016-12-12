@@ -1,0 +1,4 @@
+{
+  "run_ruby_unit_command": "bash -c \"source /opt/dev/dev.sh; dev test {relative_path}\"",
+  "run_single_ruby_unit_command": "bash -c \"source /opt/dev/dev.sh; dev test {relative_path} -n {test_name}\""
+}
